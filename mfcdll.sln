@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mfcdll", "mfcdll\mfcdll.vcproj", "{7C67D44B-A4DF-415B-B6C8-2564C53A6126}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "testMFCDLLEx", "testMFCDLLEx\testMFCDLLEx.vcproj", "{AF329276-7150-40A1-8B78-CB22274019A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C67D44B-A4DF-415B-B6C8-2564C53A6126}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7C67D44B-A4DF-415B-B6C8-2564C53A6126}.Debug|Win32.Build.0 = Debug|Win32
+		{7C67D44B-A4DF-415B-B6C8-2564C53A6126}.Release|Win32.ActiveCfg = Release|Win32
+		{7C67D44B-A4DF-415B-B6C8-2564C53A6126}.Release|Win32.Build.0 = Release|Win32
+		{AF329276-7150-40A1-8B78-CB22274019A1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AF329276-7150-40A1-8B78-CB22274019A1}.Debug|Win32.Build.0 = Debug|Win32
+		{AF329276-7150-40A1-8B78-CB22274019A1}.Release|Win32.ActiveCfg = Release|Win32
+		{AF329276-7150-40A1-8B78-CB22274019A1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
